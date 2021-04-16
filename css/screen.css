@@ -433,7 +433,7 @@ a:focus {
 }
 
 @media (min-width: 768px) {
-    .c-logo__symbol {
+    .c-logo {
         height: 40px;
     }
 }
